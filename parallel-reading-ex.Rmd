@@ -1,0 +1,3 @@
+## Lektüre: Parallelization 
+
+Lesen Sie in Grant R. McDermotts ["Parallel Programming"](https://raw.githack.com/uo-ec607/lectures/master/12-parallel/12-parallel.html#general_parallel_programming_topics) die Abschnitte ab *General parallel programming topics*.
